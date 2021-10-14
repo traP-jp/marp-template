@@ -1,0 +1,22 @@
+{
+  "name": "marp-template",
+  "version": "1.0.0",
+  "description": "The template repository of Marp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hijiki51/marp-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hijiki51/marp-template/issues"
+  },
+  "homepage": "https://github.com/hijiki51/marp-template#readme",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^1.4.1"
+  }
+}
